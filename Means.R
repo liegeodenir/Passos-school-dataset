@@ -1,6 +1,0 @@
-mean(school$ Innovation...Teachers...Bottom.of.City.Range )
-sd(school$ Innovation...Teachers...Bottom.of.City.Range )
-mean(school$ Innovation...Teachers...City.Average )
-sd(school$ Innovation...Teachers...City.Average )
-mean(school$  Reflective.dialogue...Teachers...Bottom.of.City.Range   )
-sd(school$  Reflective.dialogue...Teachers...Bottom.of.City.Range   )
